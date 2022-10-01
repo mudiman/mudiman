@@ -1,4 +1,5 @@
 ## Hi , I'm Mudassar Ali! 👋
+### I am Software Architect
 
 <a href="https://twitter.com/mudassarali">
   <img alt="Mudassar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
